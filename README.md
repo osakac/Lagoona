@@ -2,7 +2,7 @@
 
 ## Задача
 
-Сверстать сайт сети отелей
+Сверстать сайт сети отелей ([макет][code])
 
 ## Требования к верстке
 
@@ -11,3 +11,5 @@
 - **Кроссбраузерность** – корректное и идентичное отображение страницы в Chrome, Firefox, Opera, Safari, Edge последних версий, без поддержки IE
 
 ## Посмотреть сайт - https://osakac.github.io/Lagoona/
+
+[code]: https://www.figma.com/file/tjkkfkHDXlGscyVbS3emln/Lagoona?node-id=0%3A1&mode=dev
